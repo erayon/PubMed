@@ -9,4 +9,13 @@ Training data contains two folders
 apart from cancer, spanning from music, videos to HIV and stroke.
 Test data contains 100 files with names ranging 1 to 100.nxml. Output should contain labels in below format.
 
+# Prerequisition
+```
+pip install bs4
+pip install html2text
+pip install tqdm
+pip install xml
+pip install nltk
+pip install numpy
 
+```
