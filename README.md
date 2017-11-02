@@ -17,7 +17,7 @@ pip install tqdm
 pip install xml
 pip install nltk
 pip install numpy
-
+pip install sklearn
 ```
 # Install xgboost
 ```
