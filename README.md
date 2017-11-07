@@ -36,6 +36,3 @@ conda install libgcc
 
 https://github.com/dmlc/xgboost/issues/1786
 
-# Contributors
-
-Sutirtha Bhattacharyya (https://github.com/Sutirtha2304)
